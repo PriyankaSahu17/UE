@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/Priyanka_UE/:/",
+    "/content/Priyanka_UE/configuration:/.helix/config.json",
+    "/content/Priyanka_UE/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/Priyanka_UE/"
   ]
 }
